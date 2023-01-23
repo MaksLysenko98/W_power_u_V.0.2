@@ -1,0 +1,20 @@
+Added Component: Designator=C?(RX450Y200P400)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор керамический, 3300, 300В, Y2, RX450Y200P400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "Y2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RX450Y200P400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300В"; VariantName = "[No Variations]"
+Added Component: Designator=C?(RX450Y200P400)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор керамический, 3300, 300В, Y2, RX450Y200P400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "Y2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RX450Y200P400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300В"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Member To Class: ClassName=Sheet1 Member=Component C? 3300 300В
+Added Member To Class: ClassName=Sheet1 Member=Component C? 3300 300В

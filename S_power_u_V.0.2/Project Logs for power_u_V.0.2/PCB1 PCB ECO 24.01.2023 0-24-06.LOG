@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Change Component Footprint: Designator=C? Old Footprint=RX450Y200P400 New Footprint=C-0805
+Change Component Footprint: Designator=C? Old Footprint=RX450Y200P400 New Footprint=C-0805
+Change Component Comment : Designator=C? Old Comment=3300 300В New Comment=*
+Change Component Comment : Designator=C? Old Comment=3300 300В New Comment=*
+Change component parameters: Designator = "C?" ("C?"); Footprint = "RX450Y200P400"; UniqueID = "\UVWYJDSP" ("\UVWYJDSP")
+Change component parameters (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор керамический SMD, C-0805, *В, *, *"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentType"; Value = "Конденсатор керамический SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C-0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C?" ("C?"); Footprint = "RX450Y200P400"; UniqueID = "\MHQJJHQS" ("\MHQJJHQS")
+Change component parameters (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор керамический SMD, C-0805, *В, *, *"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentType"; Value = "Конденсатор керамический SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C-0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=Sheet1 Member=Component C? *
+Added Member To Class: ClassName=Sheet1 Member=Component R? *
+Added Member To Class: ClassName=Sheet1 Member=Component R? *
