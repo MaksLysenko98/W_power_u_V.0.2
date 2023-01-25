@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=C1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=C7-1
+Removed Pin From Net: NetName=NetC1_1 Pin=VD1-2
+Change Component Comment : Designator=X2 Old Comment=L New Comment=PAD1mm
+Change Component Comment : Designator=X3 Old Comment=N New Comment=PAD1mm
+Change component parameters: Designator = "L1" ("L1"); Footprint = "UU16"; UniqueID = "\JQIHCEVT" ("\JQIHCEVT")
+Change component parameters (AddParameter): Name = "ComponentDescription"; Value = "D2U16V-223"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-2
+Added Pin To Net: NetName=NetC1_1 Pin=L1-2
+Added Pin To Net: NetName=L Pin=L1-3
+Added Pin To Net: NetName=NetC1_1 Pin=VD15-2
+Added Pin To Net: NetName=LEVEL_SHIFT Pin=X2-1
+Added Pin To Net: NetName=GND_SEC Pin=X3-1
