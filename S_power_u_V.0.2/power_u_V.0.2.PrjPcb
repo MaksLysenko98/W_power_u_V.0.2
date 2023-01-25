@@ -211,23 +211,6 @@ GenerateClassCluster=0
 DocumentUniqueId=EPPIASCQ
 
 [Document11]
-DocumentPath=libraries\JFET.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SFEMVJHY
-
-[Document12]
 DocumentPath=libraries\INDUCTORS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QCPADPVK
 
-[Document13]
+[Document12]
 DocumentPath=libraries\FUSES.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ERFMIFLB
 
-[Document14]
+[Document13]
 DocumentPath=libraries\INDUCTORS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MXJVAAGE
 
-[Document15]
+[Document14]
 DocumentPath=libraries\Transformers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WNNLTSVG
 
-[Document16]
+[Document15]
 DocumentPath=libraries\RELAY.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -312,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IVKTCWHB
 
-[Document17]
+[Document16]
 DocumentPath=libraries\Resistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -329,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GBXYLTCD
 
-[Document18]
+[Document17]
 DocumentPath=libraries\Transformers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -346,7 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QBBBIKWH
 
-[Document19]
+[Document18]
 DocumentPath=libraries\RESISTOR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -363,7 +346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QBRHTGKX
 
-[Document20]
+[Document19]
 DocumentPath=libraries\RELAY.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -379,6 +362,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JZVSQHLU
+
+[Document20]
+DocumentPath=libraries\Infineon-PCB Footprints and Symbols - IPD95R450P7 - 900V CoolMOS N-Channel Power MOSFET - Altium-PCB-v01_00-EN\TO229P994X256-3N-1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BAOPFPOU
 
 [Document21]
 DocumentPath=libraries\POWER IC.SchLib
@@ -500,23 +500,6 @@ GenerateClassCluster=0
 DocumentUniqueId=IKRDFDYJ
 
 [Document28]
-DocumentPath=Sheet1.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TUIYREFN
-
-[Document29]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -532,6 +515,108 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCHYDJDG
+
+[Document29]
+DocumentPath=libraries\Project Outputs for DIODES\DIODES.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document30]
+DocumentPath=libraries\Project Outputs for JFET\JFET.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document31]
+DocumentPath=libraries\Project Outputs for OPTO\OPTO.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document32]
+DocumentPath=libraries\Project Outputs for MOSFET_POWER\MOSFET_POWER.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document33]
+DocumentPath=libraries\Project Outputs for Mosfet\Mosfet.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document34]
+DocumentPath=libraries\Infineon-PCB Footprints and Symbols - IPD95R450P7 - 900V CoolMOS N-Channel Power MOSFET - Altium-PCB-v01_00-EN\IPD95R450P7.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YKUSBNDW
 
 [Configuration1]
 Name=Sources
