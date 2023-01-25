@@ -1,0 +1,10 @@
+Added Component: Designator=TV1(PQ3230)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "TVI75"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+HV Pin=TV1-1
+Added Pin To Net: NetName=NetTV1_2 Pin=TV1-2
+Added Pin To Net: NetName=NetC36_1 Pin=TV1-3
+Added Pin To Net: NetName=NetTV1_5 Pin=TV1-5
+Added Pin To Net: NetName=GND_PRIM Pin=TV1-6
+Added Pin To Net: NetName=GND_SEC Pin=TV1-8
+Added Pin To Net: NetName=NetR19_1 Pin=TV1-11
+Added Member To Class: ClassName=Sheet2 Member=Component TV1 TVI75

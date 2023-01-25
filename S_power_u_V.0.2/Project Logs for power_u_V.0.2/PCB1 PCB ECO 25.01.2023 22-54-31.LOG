@@ -1,0 +1,12 @@
+Added Component: Designator=DA3(8-SOIC)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "LM358"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LM358"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC25_1 Pin=DA3-1
+Added Pin To Net: NetName=NetC25_2 Pin=DA3-2
+Added Pin To Net: NetName=NetDA3_3 Pin=DA3-3
+Added Pin To Net: NetName=GND_SEC Pin=DA3-4
+Added Pin To Net: NetName=NetC31_1 Pin=DA3-5
+Added Pin To Net: NetName=NetDA3_6 Pin=DA3-6
+Added Pin To Net: NetName=NetDA3_7 Pin=DA3-7
+Added Pin To Net: NetName=+12V Pin=DA3-8
+Added Member To Class: ClassName=Sheet2 Member=Component DA3 LM358

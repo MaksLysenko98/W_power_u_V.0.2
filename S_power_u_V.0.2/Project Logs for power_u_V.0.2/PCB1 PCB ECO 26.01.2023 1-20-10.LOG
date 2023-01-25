@@ -1,0 +1,18 @@
+Added Component: Designator=VT8(SOT-457-6-R)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "IMD2A"; VariantName = "[No Variations]"
+Added Component: Designator=VT11(SOT-457-6-R)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "IMD2A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetVT8_1 Pin=VT8-1
+Added Pin To Net: NetName=NetVT8_1 Pin=VT8-2
+Added Pin To Net: NetName=+12V Pin=VT8-3
+Added Pin To Net: NetName=NetR56_1 Pin=VT8-4
+Added Pin To Net: NetName=NetVT8_5 Pin=VT8-5
+Added Pin To Net: NetName=GND_SEC Pin=VT8-6
+Added Pin To Net: NetName=NetVD16_A Pin=VT11-1
+Added Pin To Net: NetName=NetVD16_K Pin=VT11-2
+Added Pin To Net: NetName=+Supply Pin=VT11-3
+Added Pin To Net: NetName=NetVT8_5 Pin=VT11-4
+Added Pin To Net: NetName=NetR58_1 Pin=VT11-5
+Added Pin To Net: NetName=GND_SEC Pin=VT11-6
+Added Member To Class: ClassName=Sheet2 Member=Component VT8 IMD2A
+Added Member To Class: ClassName=Sheet2 Member=Component VT11 IMD2A

@@ -1,0 +1,43 @@
+Added Component: Designator=VT1(SOT-23-3)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "BC856"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(SOT-23-3)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "BC847"; VariantName = "[No Variations]"
+Added Component: Designator=VT3(SOT-23-3)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "BC847"; VariantName = "[No Variations]"
+Added Component: Designator=VT4(SOT-223-4)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "BCP54"; VariantName = "[No Variations]"
+Added Component: Designator=VT5(SOT-23-3)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "BC847"; VariantName = "[No Variations]"
+Added Component: Designator=VT7(SOT-23-3)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "BC847"; VariantName = "[No Variations]"
+Added Component: Designator=VT9(SOT-23-3)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "BC847"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR23_1 Pin=VT1-1
+Added Pin To Net: NetName=NetR30_1 Pin=VT1-2
+Added Pin To Net: NetName=NetR26_2 Pin=VT1-3
+Added Pin To Net: NetName=NetR41_1 Pin=VT2-1
+Added Pin To Net: NetName=GND_SEC Pin=VT2-2
+Added Pin To Net: NetName=NetR34_1 Pin=VT2-3
+Added Pin To Net: NetName=NetC35_2 Pin=VT3-1
+Added Pin To Net: NetName=GND_SEC Pin=VT3-2
+Added Pin To Net: NetName=NetC35_1 Pin=VT3-3
+Added Pin To Net: NetName=NetR51_1 Pin=VT4-1
+Added Pin To Net: NetName=+Supply Pin=VT4-2
+Added Pin To Net: NetName=+Supply Pin=VT4-2
+Added Pin To Net: NetName=+12V Pin=VT4-3
+Added Pin To Net: NetName=NetR48_2 Pin=VT5-1
+Added Pin To Net: NetName=GND_SEC Pin=VT5-2
+Added Pin To Net: NetName=NetR50_2 Pin=VT5-3
+Added Pin To Net: NetName=NetR57_1 Pin=VT7-1
+Added Pin To Net: NetName=GND_SEC Pin=VT7-2
+Added Pin To Net: NetName=NetR58_1 Pin=VT7-3
+Added Pin To Net: NetName=NetR60_2 Pin=VT9-1
+Added Pin To Net: NetName=GND_SEC Pin=VT9-2
+Added Pin To Net: NetName=NetRL1_2 Pin=VT9-3
+Added Member To Class: ClassName=Sheet2 Member=Component VT1 BC856
+Added Member To Class: ClassName=Sheet2 Member=Component VT2 BC847
+Added Member To Class: ClassName=Sheet2 Member=Component VT3 BC847
+Added Member To Class: ClassName=Sheet2 Member=Component VT4 BCP54
+Added Member To Class: ClassName=Sheet2 Member=Component VT5 BC847
+Added Member To Class: ClassName=Sheet2 Member=Component VT7 BC847
+Added Member To Class: ClassName=Sheet2 Member=Component VT9 BC847

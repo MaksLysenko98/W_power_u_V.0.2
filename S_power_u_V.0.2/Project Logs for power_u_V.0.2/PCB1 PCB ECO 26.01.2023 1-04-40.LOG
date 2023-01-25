@@ -1,0 +1,6 @@
+Added Component: Designator=VD9(SOT-23-3)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "KAV70"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetRL1_2 Pin=VD9-1
+Added Pin To Net: NetName=NetRL1_2 Pin=VD9-2
+Added Pin To Net: NetName=+12V Pin=VD9-3
+Added Member To Class: ClassName=Sheet2 Member=Component VD9 KAV70

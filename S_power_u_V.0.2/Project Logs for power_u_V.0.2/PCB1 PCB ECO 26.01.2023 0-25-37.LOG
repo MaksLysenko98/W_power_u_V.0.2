@@ -1,0 +1,76 @@
+Added Component: Designator=DA4(DIP6-SMD)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "H11A817"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(INF-PG-DIP-8_A)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/dgdl/Datasheet_ICE2QS03_V22_20110704.pdf?folderId=db3a304412b407950112b4182a3d24f8&fileId=db3a304325305e6d012566b50ebd7070"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.infineon.com/dgdl/Datasheet_CoolSET-F3_v22_30Aug2011.pdf?folderId=db3a304412b407950112b4182a3d24f8&fileId=db3a304412b407950112b428f6ba3f30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 2.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency ( f ) Range"; Value = "Variable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group"; Value = "DIP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC (max)"; Value = "2.3 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output"; Value = "MOSFET Gate Driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic (Green) Dual In-Line Package, 9.44 x 6.35 mm Body, 2.54 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-DIP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 02, 05/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ICE2QS03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ICE2QS03-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "726-ICE2QS03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC (max)"; Value = "25 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC (min)"; Value = "10.5 V"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(DO-214AB)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "MURS160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MURS160"; VariantName = "[No Variations]"
+Added Component: Designator=VD10(SOD-80)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Стабилитрон 20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20V"; VariantName = "[No Variations]"
+Added Component: Designator=VD13(SOD-80)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Стабилитрон 3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.6V"; VariantName = "[No Variations]"
+Added Component: Designator=VD14(SOD-80)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Стабилитрон 12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Super"; Value = "SUper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12V"; VariantName = "[No Variations]"
+Added Component: Designator=VD16(SOD-80)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Стабилитрон 9.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "9.2V"; VariantName = "[No Variations]"
+Added Component: Designator=VD17(SOD-80)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Стабилитрон 20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OPTO_A Pin=DA4-1
+Added Pin To Net: NetName=OPTO_K Pin=DA4-2
+Added Pin To Net: NetName=GND_PRIM Pin=DA4-3
+Added Pin To Net: NetName=NetDA4_4 Pin=DA4-4
+Added Pin To Net: NetName=NetC10_2 Pin=U1-1
+Added Pin To Net: NetName=NetC37_1 Pin=U1-3
+Added Pin To Net: NetName=NetC38_2 Pin=U1-4
+Added Pin To Net: NetName=NetR5_1 Pin=U1-5
+Added Pin To Net: NetName=NetD1_1 Pin=U1-6
+Added Pin To Net: NetName=VCC_PRIM Pin=U1-7
+Added Pin To Net: NetName=GND_PRIM Pin=U1-8
+Added Pin To Net: NetName=GND_PRIM Pin=VD10-A
+Added Pin To Net: NetName=VCC_PRIM Pin=VD10-K
+Added Pin To Net: NetName=GND_SEC Pin=VD13-A
+Added Pin To Net: NetName=+3V Pin=VD13-K
+Added Pin To Net: NetName=GND_SEC Pin=VD14-A
+Added Pin To Net: NetName=NetR51_1 Pin=VD14-K
+Added Pin To Net: NetName=NetVD16_A Pin=VD16-A
+Added Pin To Net: NetName=NetVD16_K Pin=VD16-K
+Added Pin To Net: NetName=GND_SEC Pin=VD17-A
+Added Pin To Net: NetName=NetVD16_K Pin=VD17-K
+Added Member To Class: ClassName=Sheet2 Member=Component DA4 H11A817
+Added Member To Class: ClassName=Sheet2 Member=Component U1 ICE2QS03
+Added Member To Class: ClassName=Sheet2 Member=Component VD2 MURS160
+Added Member To Class: ClassName=Sheet2 Member=Component VD10 20V
+Added Member To Class: ClassName=Sheet2 Member=Component VD13 3.6V
+Added Member To Class: ClassName=Sheet2 Member=Component VD14 12V
+Added Member To Class: ClassName=Sheet2 Member=Component VD16 9.2V
+Added Member To Class: ClassName=Sheet2 Member=Component VD17 20V

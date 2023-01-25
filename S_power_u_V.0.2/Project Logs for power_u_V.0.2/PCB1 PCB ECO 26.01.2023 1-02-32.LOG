@@ -1,0 +1,39 @@
+Added Component: Designator=C12(RX450Y200P400)
+Add component (AddParameter): Name = "ComponentDescription"; Value = " ерамический, 100, 1к¬,  "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "1к¬"; VariantName = "[No Variations]"
+Added Component: Designator=VD4(SOT-23-3)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "KAV70"; VariantName = "[No Variations]"
+Added Component: Designator=VD6(SOT-23-3)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "KAV70"; VariantName = "[No Variations]"
+Added Component: Designator=VD7(SOT-23-3)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "KAV70"; VariantName = "[No Variations]"
+Added Component: Designator=VD8(SOT-23-3)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "KAV70"; VariantName = "[No Variations]"
+Added Component: Designator=VT6(TO-263-3)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "IRLR2905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "IRLR2905"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=+Supply Pin=C12-2
+Added Pin To Net: NetName=NetTV1_5 Pin=VD4-1
+Added Pin To Net: NetName=NetTV1_5 Pin=VD4-2
+Added Pin To Net: NetName=NetVD4_3 Pin=VD4-3
+Added Pin To Net: NetName=NetVD4_3 Pin=VD6-1
+Added Pin To Net: NetName=NetVD4_3 Pin=VD6-2
+Added Pin To Net: NetName=NetR22_1 Pin=VD6-3
+Added Pin To Net: NetName=NetR19_1 Pin=VD7-1
+Added Pin To Net: NetName=NetR19_1 Pin=VD7-2
+Added Pin To Net: NetName=NetVD7_3 Pin=VD7-3
+Added Pin To Net: NetName=NetVD7_3 Pin=VD8-1
+Added Pin To Net: NetName=NetVD7_3 Pin=VD8-2
+Added Pin To Net: NetName=FAULT Pin=VD8-3
+Added Pin To Net: NetName=NetR55_1 Pin=VT6-1
+Added Pin To Net: NetName=NetR49_1 Pin=VT6-2
+Added Pin To Net: NetName=AKB- Pin=VT6-3
+Added Member To Class: ClassName=Sheet2 Member=Component C12 100 1к¬ 
+Added Member To Class: ClassName=Sheet2 Member=Component VD4 KAV70
+Added Member To Class: ClassName=Sheet2 Member=Component VD6 KAV70
+Added Member To Class: ClassName=Sheet2 Member=Component VD7 KAV70
+Added Member To Class: ClassName=Sheet2 Member=Component VD8 KAV70
+Added Member To Class: ClassName=Sheet2 Member=Component VT6 IRLR2905
