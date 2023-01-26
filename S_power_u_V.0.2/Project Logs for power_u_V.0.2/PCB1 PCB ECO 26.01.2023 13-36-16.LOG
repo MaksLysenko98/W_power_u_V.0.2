@@ -1,0 +1,6 @@
+Added Component: Designator=X4(PAD3MM)
+Added Component: Designator=X5(PAD3MM)
+Added Pin To Net: NetName=+Supply Pin=X4-1
+Added Pin To Net: NetName=AKB- Pin=X5-1
+Added Member To Class: ClassName=Sheet2 Member=Component X4 Клема +
+Added Member To Class: ClassName=Sheet2 Member=Component X5 Клема -

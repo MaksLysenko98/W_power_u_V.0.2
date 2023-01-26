@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=X3 Old Footprint=PAD_TOP_10x10 New Footprint=PAD3MM
+Added Component: Designator=X1(PAD3MM)
+Added Pin To Net: NetName=+12V Pin=X1-1
+Added Member To Class: ClassName=Sheet2 Member=Component X1 PLS3 2.54
