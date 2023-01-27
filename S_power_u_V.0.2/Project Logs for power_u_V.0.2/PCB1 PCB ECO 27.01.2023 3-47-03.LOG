@@ -1,0 +1,16 @@
+Added Component: Designator=C7(PCAP D=6.3 P=2.5)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Электролитический, 47мк, 50В,  "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=C41(PCAP D=6.3 P=2.5)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Электролитический, 47мк, 50В,  "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_PRIM Pin=C7-1
+Added Pin To Net: NetName=GND_PRIM Pin=C7-2
+Added Pin To Net: NetName=NetC41_1 Pin=C41-1
+Added Pin To Net: NetName=GND_PRIM Pin=C41-2
+Added Member To Class: ClassName=Sheet2 Member=Component C7 47мк 50В 
+Added Member To Class: ClassName=Sheet2 Member=Component C41 47мк 50В 

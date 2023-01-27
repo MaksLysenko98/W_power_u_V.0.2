@@ -1,0 +1,189 @@
+Removed Pin From Net: NetName=VCC_PRIM Pin=C15-1
+Removed Pin From Net: NetName=GND_PRIM Pin=C15-2
+Removed Pin From Net: NetName=VCC_PRIM Pin=C18-1
+Removed Pin From Net: NetName=GND_PRIM Pin=C18-2
+Removed Pin From Net: NetName=GND_PRIM Pin=R18-2
+Removed Pin From Net: NetName=VCC_PRIM Pin=R22-2
+Removed Pin From Net: NetName=VCC_PRIM Pin=R25-1
+Removed Pin From Net: NetName=GND_PRIM Pin=TV1-6
+Removed Pin From Net: NetName=GND_PRIM Pin=VD10-A
+Removed Pin From Net: NetName=VCC_PRIM Pin=VD10-K
+Removed Member From Class: ClassName=Sheet2 Member=D1
+Removed Member From Class: ClassName=Sheet2 Member=R18
+Removed Member From Class: ClassName=Sheet2 Member=R22
+Removed Member From Class: ClassName=Sheet2 Member=R25
+Change Component Comment : Designator=R6 Old Comment=63kom New Comment=63К
+Change Component Comment : Designator=R62 Old Comment=110 New Comment=10
+Change Component Comment : Designator=R14 Old Comment=200kom New Comment=1М
+Change component parameters: Designator = "R6" ("R6"); Footprint = "R-1206"; UniqueID = "\FZSVJNKW" ("\FZSVJNKW")
+Change component parameters (AddParameter): Name = "Accuracy"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentDescription"; Value = "SMD1206 63К, 5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "63К"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "R-0805"; UniqueID = "\TKNHYNBN" ("\TKNHYNBN")
+Change component parameters (AddParameter): Name = "Accuracy"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentDescription"; Value = "SMD0805 1М, 5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1М"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R62" ("R62"); Footprint = "R-1206"; UniqueID = "\ZBWMWNRA" ("\ZBWMWNRA")
+Change component parameters (AddParameter): Name = "Accuracy"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentDescription"; Value = "SMD1206 10, 5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "SMD0805, 1мк, 50В, "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "SMD0805, 1мк, 50В, "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=C18(C-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "SMD0805, 1мк, 50В, "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=C39(C-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "SMD0805, 1мк, 50В, "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=C40(C-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "SMD0805, 0.1мк, 50В, "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=C42(C-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "SMD0805, 68, 50В, "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "68"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R-0805)
+Add component (AddParameter): Name = "Accuracy"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentDescription"; Value = "SMD0805 1, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R-0805)
+Add component (AddParameter): Name = "Accuracy"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentDescription"; Value = "SMD0805 8.2К, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8.2К"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R-0805)
+Add component (AddParameter): Name = "Accuracy"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentDescription"; Value = "SMD0805 10К, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10К"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R-0805)
+Add component (AddParameter): Name = "Accuracy"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentDescription"; Value = "SMD0805 33К, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33К"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R-0805)
+Add component (AddParameter): Name = "Accuracy"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentDescription"; Value = "SMD0805 33К, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33К"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R-0805)
+Add component (AddParameter): Name = "Accuracy"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentDescription"; Value = "SMD0805 4.7К, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7К"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(SOT-23-3)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "KAV70"; VariantName = "[No Variations]"
+Added Component: Designator=VD4(SOT-23-3)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "KAV70"; VariantName = "[No Variations]"
+Added Component: Designator=VD6(SOT-23-3)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "KAV70"; VariantName = "[No Variations]"
+Added Component: Designator=VD10(SOD-80)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Стабилитрон 12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Super"; Value = "SUper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12V"; VariantName = "[No Variations]"
+Added Component: Designator=VD18(SOD-80)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Стабилитрон 12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Super"; Value = "SUper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12V"; VariantName = "[No Variations]"
+Added Component: Designator=VD19(LED-0805)
+Add component (AddParameter): Name = "Color"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentDescription"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Added Component: Designator=VD20(SOD-80)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Стабилитрон 12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Super"; Value = "SUper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12V"; VariantName = "[No Variations]"
+Added Component: Designator=VT10(SOT-223-4)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "BCP54"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_PRIM Pin=C11-1
+Added Pin To Net: NetName=GND_PRIM Pin=C11-2
+Added Pin To Net: NetName=GND_PRIM Pin=C39-2
+Added Pin To Net: NetName=GND_PRIM Pin=C40-1
+Added Pin To Net: NetName=NetC37_1 Pin=DA4-4
+Added Pin To Net: NetName=GND_PRIM Pin=R14-1
+Added Pin To Net: NetName=VCC_PRIM Pin=VD6-3
+Added Pin To Net: NetName=GND_PRIM Pin=VD10-A
+Added Pin To Net: NetName=VCC_PRIM Pin=VD10-K
+Added Pin To Net: NetName=GND_PRIM Pin=VD18-A
+Added Pin To Net: NetName=GND_PRIM Pin=VD20-A
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=C18-2
+Added Net: Name=NetC15_1
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=R12-2
+Added Pin To Net: NetName=NetC15_2 Pin=TV1-5
+Added Pin To Net: NetName=NetC15_2 Pin=VD1-1
+Added Pin To Net: NetName=NetC15_2 Pin=VD1-2
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=R5-2
+Added Pin To Net: NetName=NetC18_1 Pin=VD4-3
+Added Net: Name=NetC18_1
+Added Pin To Net: NetName=NetC39_1 Pin=C39-1
+Added Pin To Net: NetName=NetC39_1 Pin=VD6-1
+Added Pin To Net: NetName=NetC39_1 Pin=VD6-2
+Added Pin To Net: NetName=NetC39_1 Pin=VT10-3
+Added Net: Name=NetC39_1
+Added Pin To Net: NetName=NetC40_2 Pin=C40-2
+Added Pin To Net: NetName=NetC40_2 Pin=R4-1
+Added Pin To Net: NetName=NetC40_2 Pin=R6-1
+Added Pin To Net: NetName=NetC40_2 Pin=U1-5
+Added Net: Name=NetC40_2
+Added Pin To Net: NetName=NetC41_1 Pin=R5-1
+Added Pin To Net: NetName=NetC41_1 Pin=R7-2
+Added Pin To Net: NetName=NetC41_1 Pin=R9-2
+Added Pin To Net: NetName=NetC41_1 Pin=VT10-2
+Added Pin To Net: NetName=NetC41_1 Pin=VT10-2
+Added Net: Name=NetC41_1
+Added Pin To Net: NetName=NetC42_1 Pin=C42-1
+Added Pin To Net: NetName=NetC42_1 Pin=R16-1
+Added Pin To Net: NetName=NetC42_1 Pin=R17-2
+Added Pin To Net: NetName=NetC42_1 Pin=U1-2
+Added Net: Name=NetC42_1
+Added Pin To Net: NetName=NetC42_2 Pin=C42-2
+Added Pin To Net: NetName=NetC42_2 Pin=R17-1
+Added Pin To Net: NetName=NetC42_2 Pin=TV1-6
+Added Net: Name=NetC42_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R62-2
+Added Pin To Net: NetName=NetQ1_1 Pin=VD18-K
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=VD20-K
+Added Pin To Net: NetName=NetR7_1 Pin=VT10-1
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=R16-2
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR62_1 Pin=R62-1
+Added Pin To Net: NetName=NetR62_1 Pin=U1-6
+Added Net: Name=NetR62_1
+Added Pin To Net: NetName=NetVD1_3 Pin=VD1-3
+Added Pin To Net: NetName=NetVD1_3 Pin=VD4-1
+Added Pin To Net: NetName=NetVD1_3 Pin=VD4-2
+Added Net: Name=NetVD1_3
+Added Member To Class: ClassName=Sheet2 Member=Component C11 1мк
+Added Member To Class: ClassName=Sheet2 Member=Component C39 1мк
+Added Member To Class: ClassName=Sheet2 Member=Component C40 0.1мк
+Added Member To Class: ClassName=Sheet2 Member=Component C42 68
+Added Member To Class: ClassName=Sheet2 Member=Component R7 8.2К
+Added Member To Class: ClassName=Sheet2 Member=Component R9 10К
+Added Member To Class: ClassName=Sheet2 Member=Component R12 33К
+Added Member To Class: ClassName=Sheet2 Member=Component R16 33К
+Added Member To Class: ClassName=Sheet2 Member=Component R17 4.7К
+Added Member To Class: ClassName=Sheet2 Member=Component VD1 KAV70
+Added Member To Class: ClassName=Sheet2 Member=Component VD18 20V
+Added Member To Class: ClassName=Sheet2 Member=Component VD19 *
+Added Member To Class: ClassName=Sheet2 Member=Component VD20 15V
+Added Member To Class: ClassName=Sheet2 Member=Component VT10 BCP54

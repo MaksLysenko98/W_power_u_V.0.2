@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NetC36_1 Pin=Q1-2
+Change Component Footprint: Designator=Q1 Old Footprint=TO229P994X256-3N-1 New Footprint=TO-252
