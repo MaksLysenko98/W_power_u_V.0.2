@@ -1,0 +1,61 @@
+Added Component: Designator=C15(c-0603)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор керамический SMD, c-0603, *В, *, *"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор керамический SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "c-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C21(c-0603)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор керамический SMD, c-0603, *В, *, *"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор керамический SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "c-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C22(c-0603)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор керамический SMD, c-0603, *В, *, *"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор керамический SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "c-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C23(c-0603)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор керамический SMD, c-0603, *В, *, *"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор керамический SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "c-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C42(CAP: D13C5H25)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор электролитический, 1000мк, 50В, ESR, CAP: D13C5H25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор электролитический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "ESR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CAP: D13C5H25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LOW ESR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=C46(CAP: D13C5H25)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор электролитический, 1000мк, 50В, ESR, CAP: D13C5H25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор электролитический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "ESR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CAP: D13C5H25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LOW ESR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=AB_CUR_AMP Pin=C15-2
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=GND_SEC Pin=C23-1
+Added Pin To Net: NetName=+Supply Pin=C42-1
+Added Pin To Net: NetName=GND_SEC Pin=C42-2
+Added Pin To Net: NetName=+Supply Pin=C46-1
+Added Pin To Net: NetName=GND_SEC Pin=C46-2
+Added Member To Class: ClassName=Sheet2 Member=Component C15 *
+Added Member To Class: ClassName=Sheet2 Member=Component C21 *
+Added Member To Class: ClassName=Sheet2 Member=Component C22 *
+Added Member To Class: ClassName=Sheet2 Member=Component C23 *
+Added Member To Class: ClassName=Sheet2 Member=Component C42 1000мк
+Added Member To Class: ClassName=Sheet2 Member=Component C46 1000мк

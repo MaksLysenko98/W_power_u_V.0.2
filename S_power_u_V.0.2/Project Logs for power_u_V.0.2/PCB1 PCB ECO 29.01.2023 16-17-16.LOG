@@ -1,0 +1,110 @@
+Added Component: Designator=C2(FILM_P1500L1800W1100H1400PD80)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор пленочный, 0.68мк, 275В, X2, FILM_P1500L1800W1100H1400PD80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор пленочный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "FILM_P1500L1800W1100H1400PD80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.68мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "275В"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP: D5C2H11)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор электролитический, *, *, *, CAP: D5C2H11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор электролитический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CAP: D5C2H11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP23X9X19mm)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор металло-плёночный, 0.47мк, 630В, СВВ22, CAP23X9X19mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор металло-плёночный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "СВВ22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CAP23X9X19mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.47мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "630В"; VariantName = "[No Variations]"
+Added Component: Designator=C9(c-1206)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор керамический SMD, c-1206, *В, *, *"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор керамический SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "c-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(c-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор керамический SMD, c-0805, 25В, 22мк, X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор керамический SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "c-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25"; VariantName = "[No Variations]"
+Added Component: Designator=C11(c1206)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор керамический SMD, c1206, *В, *, *"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор керамический SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "c1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(Capacitor, SM Tantalum; Body 7.3 x 4.3 mm (LxW typ))
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор танталовый SMD, Capacitor, SM Tantalum; Body 7.3 x 4.3 mm (LxW typ), 25В, 47мк, Типоразмер D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор танталовый SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "Типоразмер D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Capacitor, SM Tantalum; Body 7.3 x 4.3 mm (LxW typ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25"; VariantName = "[No Variations]"
+Added Component: Designator=C18(C-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор керамический SMD, C-0805, 50В, 120, COG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор керамический SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "COG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C19(C-0603)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор керамический SMD, C-0603, *В, *, *"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор керамический SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C20(HVCerCap_d7.5x10)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор керамический, 0.01мк, 1кВ, Y2, HVCerCap_d7.5x10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "Y2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "HVCerCap_d7.5x10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.01мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "1кВ"; VariantName = "[No Variations]"
+Added Component: Designator=C45(c-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор керамический SMD, c-0805, 50В, 1мк, X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Конденсатор керамический SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "c-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=GND_PRIM Pin=C4-2
+Added Pin To Net: NetName=GND_PRIM Pin=C5-1
+Added Pin To Net: NetName=NetC4_1 Pin=C5-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC4_1 Pin=C9-2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=GND_PRIM Pin=C10-2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC10_1 Pin=C12-1
+Added Pin To Net: NetName=GND_PRIM Pin=C12-2
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=GND_PRIM Pin=C18-2
+Added Pin To Net: NetName=+12V Pin=C19-1
+Added Pin To Net: NetName=GND_SEC Pin=C19-2
+Added Pin To Net: NetName=GND_PRIM Pin=C20-1
+Added Pin To Net: NetName=GND_SEC Pin=C20-2
+Added Pin To Net: NetName=+12V Pin=C45-1
+Added Pin To Net: NetName=GND_SEC Pin=C45-2
+Added Member To Class: ClassName=Sheet2 Member=Component C2 0.68мк 275В
+Added Member To Class: ClassName=Sheet2 Member=Component C4 *
+Added Member To Class: ClassName=Sheet2 Member=Component C5 0.47мк 630В
+Added Member To Class: ClassName=Sheet2 Member=Component C9 *
+Added Member To Class: ClassName=Sheet2 Member=Component C10 22мк
+Added Member To Class: ClassName=Sheet2 Member=Component C11 *
+Added Member To Class: ClassName=Sheet2 Member=Component C12 47мк
+Added Member To Class: ClassName=Sheet2 Member=Component C18 120
+Added Member To Class: ClassName=Sheet2 Member=Component C19 *
+Added Member To Class: ClassName=Sheet2 Member=Component C20 0.01мк 1кВ
+Added Member To Class: ClassName=Sheet2 Member=Component C45 1мк

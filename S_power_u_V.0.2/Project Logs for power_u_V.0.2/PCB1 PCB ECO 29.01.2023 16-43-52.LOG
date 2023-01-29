@@ -1,0 +1,36 @@
+Added Component: Designator=R3(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Ðוחטסעמנ SMD, R-0805, 1ÌÎל, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Ðוחטסעמנ SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1Ì"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Ðוחטסעמנ SMD, R-0805, 22ךÎל, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Ðוחטסעמנ SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22ך"; VariantName = "[No Variations]"
+Added Component: Designator=R19(R-1206)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Ðוחטסעמנ SMD, R-1206, *Îל, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Ðוחטסעמנ SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R40(r-2512)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Ðוחטסעמנ SMD, r-2512, *Îל, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Ðוחטסעמנ SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "r-2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_2 Pin=R3-1
+Added Pin To Net: NetName=GND_PRIM Pin=R3-2
+Added Pin To Net: NetName=GND_PRIM Pin=R7-1
+Added Pin To Net: NetName=NetC8_1 Pin=R7-2
+Added Pin To Net: NetName=NetC9_1 Pin=R19-1
+Added Pin To Net: NetName=NetC4_1 Pin=R19-2
+Added Pin To Net: NetName=GND_SEC Pin=R40-1
+Added Pin To Net: NetName=NetR37_1 Pin=R40-2
+Added Member To Class: ClassName=Sheet2 Member=Component R3 1Ì
+Added Member To Class: ClassName=Sheet2 Member=Component R7 22ך
+Added Member To Class: ClassName=Sheet2 Member=Component R19 *
+Added Member To Class: ClassName=Sheet2 Member=Component R40 *

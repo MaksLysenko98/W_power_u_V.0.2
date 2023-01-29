@@ -1,0 +1,9 @@
+Added Component: Designator=R13(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, 22Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_6 Pin=R13-1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Member To Class: ClassName=Sheet2 Member=Component R13 22

@@ -1,0 +1,57 @@
+Added Component: Designator=D1(8-soic)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Микросхема контроллер PWM, ICE2QS02G, 8-soic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentTypе"; Value = "Микросхема контроллер PWM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "8-soic"; VariantName = "[No Variations]"
+Added Component: Designator=D5(sot-23-3)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Микросхема ИОН, TL431DBZ, sot-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Микросхема ИОН"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "sot-23-3"; VariantName = "[No Variations]"
+Added Component: Designator=L1(UU16)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Дроссель синфазный, D2U16V-223, UU16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentTypе"; Value = "Дроссель синфазный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "UU16"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(GBU406)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Диодный мост, однофазный, GBU406, GBU406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Диодный мост, однофазный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "GBU406"; VariantName = "[No Variations]"
+Added Component: Designator=X1(2EDGRC-7.5-02P)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Разъём, 2EDGRC-7.5-02P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentTypе"; Value = "Разъём"; VariantName = "[No Variations]"
+Added Component: Designator=X2(KF25C-7.62-02P-13)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Разъём винтовой, KF25C-7.62-02P-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentTypе"; Value = "Разъём винтовой"; VariantName = "[No Variations]"
+Added Component: Designator=X5(PLS-2)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Разъём штыревой, PLS-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentTypе"; Value = "Разъём штыревой"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_2 Pin=D1-1
+Added Pin To Net: NetName=NetC7_1 Pin=D1-2
+Added Pin To Net: NetName=NetC6_2 Pin=D1-3
+Added Pin To Net: NetName=NetC18_1 Pin=D1-4
+Added Pin To Net: NetName=NetC8_1 Pin=D1-5
+Added Pin To Net: NetName=NetD1_6 Pin=D1-6
+Added Pin To Net: NetName=NetC10_1 Pin=D1-7
+Added Pin To Net: NetName=GND_PRIM Pin=D1-8
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-2
+Added Pin To Net: NetName=GND_SEC Pin=D5-3
+Added Pin To Net: NetName=NetC2_1 Pin=L1-1
+Added Pin To Net: NetName=NetC1_1 Pin=L1-2
+Added Pin To Net: NetName=NetC2_2 Pin=L1-3
+Added Pin To Net: NetName=NetC1_2 Pin=L1-4
+Added Pin To Net: NetName=NetC4_1 Pin=VD1-+
+Added Pin To Net: NetName=GND_PRIM Pin=VD1--
+Added Pin To Net: NetName=NetC1_2 Pin=VD1-AC1
+Added Pin To Net: NetName=NetC1_1 Pin=VD1-AC2
+Added Pin To Net: NetName=NetC2_1 Pin=X1-1
+Added Pin To Net: NetName=NetC2_2 Pin=X1-2
+Added Pin To Net: NetName=+Supply Pin=X2-1
+Added Pin To Net: NetName=GND_SEC Pin=X2-2
+Added Pin To Net: NetName=+12V Pin=X5-1
+Added Pin To Net: NetName=LEVEL_SHIFT Pin=X5-2
+Added Member To Class: ClassName=Sheet2 Member=Component D1 ICE2QS02G
+Added Member To Class: ClassName=Sheet2 Member=Component D5 TL431DBZ
+Added Member To Class: ClassName=Sheet2 Member=Component L1 D2U16V-223
+Added Member To Class: ClassName=Sheet2 Member=Component VD1 GBU406
+Added Member To Class: ClassName=Sheet2 Member=Component X1 2EDGRC-7.5-02P
+Added Member To Class: ClassName=Sheet2 Member=Component X2 KF25C-7.62-02P-13
+Added Member To Class: ClassName=Sheet2 Member=Component X5 PLS-2

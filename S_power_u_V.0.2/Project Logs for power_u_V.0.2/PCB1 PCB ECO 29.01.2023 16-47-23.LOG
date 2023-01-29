@@ -1,0 +1,18 @@
+Added Component: Designator=R1(R-1206)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "–езистор SMD, R-1206, 330кќм, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "–езистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330к"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R-1206)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "–езистор SMD, R-1206, 330кќм, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "–езистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330к"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC2_1 Pin=R1-2
+Added Pin To Net: NetName=NetC2_2 Pin=R2-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Member To Class: ClassName=Sheet2 Member=Component R1 330к
+Added Member To Class: ClassName=Sheet2 Member=Component R2 330к

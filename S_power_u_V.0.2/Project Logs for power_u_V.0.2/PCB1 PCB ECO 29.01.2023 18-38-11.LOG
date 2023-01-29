@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C11 Old Footprint=c1206 New Footprint=c-1206
+Change component parameters: Designator = "C11" ("C11"); Footprint = "c1206"; UniqueID = "\GOGMZTLR" ("\GOGMZTLR")
+Change component parameters (AddParameter): Name = "ComponentDescription"; Value = "Конденсатор керамический SMD, c-1206, *В, *, *"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentType"; Value = "Конденсатор керамический SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "c-1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"

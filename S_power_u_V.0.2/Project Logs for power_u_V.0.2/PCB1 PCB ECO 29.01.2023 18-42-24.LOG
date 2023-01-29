@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND_PRIM Pin=D2-3
+Removed Pin From Net: NetName=NetC6_2 Pin=D2-4
+Removed Pin From Net: NetName=FB_SEC Pin=D3-2
+Removed Member From Class: ClassName=Sheet2 Member=D2
+Removed Member From Class: ClassName=Sheet2 Member=D3
+Added Component: Designator=D?(DIP4-SMD)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Оптрон с транзисторным выходом, PC817, DIP4-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Оптрон с транзисторным выходом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP4-SMD"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIP4-SMD)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Оптрон с транзисторным выходом, PC817, DIP4-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Оптрон с транзисторным выходом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP4-SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_PRIM Pin=D?-1
+Added Pin To Net: NetName=NetC6_2 Pin=D?-2
+Added Pin To Net: NetName=FB_SEC Pin=D?-4
+Added Pin To Net: NetName=NetD?_3 Pin=D?-3
+Added Pin To Net: NetName=NetD?_3 Pin=R25-1
+Added Pin To Net: NetName=NetD?_3 Pin=R26-2
+Added Net: Name=NetD?_3
+Added Member To Class: ClassName=Sheet2 Member=Component D? PC817
+Added Member To Class: ClassName=Sheet2 Member=Component D? PC817

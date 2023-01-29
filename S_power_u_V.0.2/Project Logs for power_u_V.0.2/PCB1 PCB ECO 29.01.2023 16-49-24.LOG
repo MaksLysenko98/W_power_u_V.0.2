@@ -1,0 +1,27 @@
+Added Component: Designator=R22(R-1206)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-1206, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R23(R-1206)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-1206, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R24(R-1206)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-1206, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_PRIM Pin=R22-1
+Added Pin To Net: NetName=NetC11_1 Pin=R22-2
+Added Pin To Net: NetName=GND_PRIM Pin=R23-1
+Added Pin To Net: NetName=NetC11_1 Pin=R23-2
+Added Pin To Net: NetName=GND_PRIM Pin=R24-1
+Added Pin To Net: NetName=NetC11_1 Pin=R24-2
+Added Member To Class: ClassName=Sheet2 Member=Component R22 *
+Added Member To Class: ClassName=Sheet2 Member=Component R23 *
+Added Member To Class: ClassName=Sheet2 Member=Component R24 *

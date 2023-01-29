@@ -1,0 +1,81 @@
+Added Component: Designator=R4(R-1206)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "–езистор SMD, R-1206, 330кќм, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "–езистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330к"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R-1206)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "–езистор SMD, R-1206, 330кќм, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "–езистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330к"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R-1206)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "–езистор SMD, R-1206, 330кќм, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "–езистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330к"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R-1206)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "–езистор SMD, R-1206, 100кќм, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "–езистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100к"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R-1206)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "–езистор SMD, R-1206, 100кќм, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "–езистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100к"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R-1206)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "–езистор SMD, R-1206, 100кќм, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "–езистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100к"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R-1206)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "–езистор SMD, R-1206, *ќм, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "–езистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16(R-1206)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "–езистор SMD, R-1206, *ќм, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "–езистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R21(R-1206)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "–езистор SMD, R-1206, *ќм, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "–езистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R4-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR4_1 Pin=R5-2
+Added Pin To Net: NetName=NetC8_1 Pin=R6-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetC4_1 Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR8_1 Pin=R9-2
+Added Pin To Net: NetName=NetC10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR9_1 Pin=R10-2
+Added Pin To Net: NetName=NetC9_1 Pin=R15-1
+Added Pin To Net: NetName=NetC4_1 Pin=R15-2
+Added Pin To Net: NetName=NetC9_1 Pin=R16-1
+Added Pin To Net: NetName=NetC4_1 Pin=R16-2
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetC9_1 Pin=R21-2
+Added Member To Class: ClassName=Sheet2 Member=Component R4 330к
+Added Member To Class: ClassName=Sheet2 Member=Component R5 330к
+Added Member To Class: ClassName=Sheet2 Member=Component R6 330к
+Added Member To Class: ClassName=Sheet2 Member=Component R8 100к
+Added Member To Class: ClassName=Sheet2 Member=Component R9 100к
+Added Member To Class: ClassName=Sheet2 Member=Component R10 100к
+Added Member To Class: ClassName=Sheet2 Member=Component R15 *
+Added Member To Class: ClassName=Sheet2 Member=Component R16 *
+Added Member To Class: ClassName=Sheet2 Member=Component R21 *
