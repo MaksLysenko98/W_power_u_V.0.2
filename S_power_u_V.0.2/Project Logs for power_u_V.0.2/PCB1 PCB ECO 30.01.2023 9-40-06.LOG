@@ -1,0 +1,11 @@
+Change component parameters: Designator = "VD7" ("VD7"); Footprint = "DO-214AA"; UniqueID = "\VPYASOPI" ("\VPYASOPI")
+Change component parameters (AddParameter): Name = "ComponentDescription"; Value = "Диод выпрямительный одиночный, MURS160, DO-214AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentType"; Value = "Диод выпрямительный одиночный"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-214AA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD8" ("VD8"); Footprint = "DO-214AC"; UniqueID = "\ESSMJJYK" ("\ESSMJJYK")
+Change component parameters (AddParameter): Name = "ComponentDescription"; Value = "Диод выпрямительный одиночный, US1MG, DO-214AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentType"; Value = "Диод выпрямительный одиночный"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-214AC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet2 Member=Component D4 LM258
+Added Member To Class: ClassName=Sheet2 Member=Component R30 *
+Added Member To Class: ClassName=Sheet2 Member=Component VT8 BC847BW
